@@ -3,7 +3,11 @@
 This repository contains a collection of projects showcasing web automation and web scraping using Puppeteer, a Node.js library.
 
 
-### Links to the videos
+### Full Playlist
+https://youtube.com/playlist?list=PLPzNpuH5pwYFiJIc0WyCameZOyTZRZdTi&si=n_s0j48S5Yrj3kpt
+
+
+### Videos
 🟡Login automation: https://youtu.be/ojxEJfiseXs?si=u4vMJ3t4IBv31Yeh
 
 🟡Web scraping a book store website: https://youtu.be/ofqUYy4hIlg
